@@ -3,7 +3,7 @@
 
 apk: https://disk.yandex.ru/d/gdLxBRiBzzKOwQ
 
--Moxy
--Dagger
--RxJava
--Retrofit2
+- Moxy
+- Dagger
+- RxJava
+- Retrofit2
