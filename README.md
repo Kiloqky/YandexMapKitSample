@@ -7,3 +7,6 @@ apk: https://disk.yandex.ru/d/gdLxBRiBzzKOwQ
 - Dagger
 - RxJava
 - Retrofit2
+- YandexMapKit
+- Google Geocoding API
+- Cicerone
