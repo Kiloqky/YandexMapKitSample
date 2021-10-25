@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">yandexmaptesttast</string>
+    <string name="app_name">YandexMapKit</string>
     <string name="open_maps">Open Maps</string>
     <string name="confirm">confirm</string>
     <string name="address">address</string>
