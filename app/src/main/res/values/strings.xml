@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">yandexmaptesttast</string>
+    <string name="open_maps">Open Maps</string>
+    <string name="confirm">confirm</string>
+    <string name="address">address</string>
+    <string name="lat">lat</string>
+    <string name="lon">lon</string>
+</resources>
